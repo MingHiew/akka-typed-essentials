@@ -1,0 +1,5 @@
+object ChildActors extends App {
+
+}
+
+
